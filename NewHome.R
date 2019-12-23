@@ -1,6 +1,6 @@
 library("gmapsdistance")
 # "Licence" for the use for google maps: distance matrix API
-set.api.key("AIzaSyCBu0S7RNGFs132j2v_Ae0kzwULGsYHFlk")
+# CANNOT BE SHOWN
 library("tidyverse")
 library("lubridate")
 library("rvest")
@@ -9,8 +9,7 @@ library("knitr")
 library("kableExtra")
 library("gmailr")
 # File with credentials for gmail API
-use_secret_file("client_secret_748962735150-5j67efo0a96lstkdj83dkglr2akon4eo.apps.googleusercontent.com.json")
-
+# CANNOT BE SHOWN
 
 
 # Get the new E-Mails from homegate from the last day (gmail)
